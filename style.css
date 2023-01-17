@@ -1,0 +1,16 @@
+/* CSS Page  */
+
+.container {
+    border: 1px solid black;
+    width: 200px;
+}
+
+.tr {
+  color: blue;
+}
+
+.tr,th {
+  background-color: grey;
+  border-radius: 20px;
+  padding: 3px;
+}
